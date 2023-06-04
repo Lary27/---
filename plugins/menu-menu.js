@@ -101,7 +101,7 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ⊜ *GataCoins ➟* ${money} 🐈
 ⊜ *Tokens ➟* ${joincount} 🪙
 ${readMore}
-*╭━〔 INFORMACIÓN DE GATABOT 〕⬣*
+*╭━〔 INFORMACIÓN DE 𝙇𝙖𝙧𝙮𝘽𝙤𝙏-𝙎𝙐𝙋𝙀𝙍𝘽𝙊𝙏 〕⬣*
 ┃💫➺ _${usedPrefix}cuentasgatabot | cuentasgb_
 ┃💫➺ _${usedPrefix}gruposgb | grupos | groupgb_
 ┃💫➺ _${usedPrefix}donar | donate_
@@ -134,7 +134,7 @@ ${readMore}
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 ÚNETE AL GRUPO 〕━⬣*
-┃ *Une a GataBot en Grupos!!*
+┃ *Une a 𝙇𝙖𝙧𝙮𝘽𝙤𝙏-𝙎𝙐𝙋𝙀𝙍𝘽𝙊𝙏 en Grupos!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🪅 _${usedPrefix}botemporal *enlace* *cantidad*_
 ┃🪅 _${usedPrefix}addbot *enlace* *cantidad*_
@@ -191,7 +191,7 @@ ${readMore}
 
 *╭━〔 IA 〕━⬣*
 ┃ *Tienes la Ocasión de*
-┃ *Conversar con GataBot!!*
+┃ *Conversar con 𝙇𝙖𝙧𝙮𝘽𝙤𝙏-𝙎𝙐𝙋𝙀𝙍𝘽𝙊𝙏!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🪄➺ _${usedPrefix}simi | okgoogle *texto*_
 ┃🪄➺ _${usedPrefix}alexa | siri | cortana *texto*_
@@ -281,7 +281,7 @@ ${readMore}
 *╰━━━━━━━━━━━━⬣*
 
 *╭━[ CONFIGURACIÓN - GRUPOS ]━⬣*
-┃ *Mejora tú Grupo con GataBot!!*
+┃ *Mejora tú Grupo con 𝙇𝙖𝙧𝙮𝘽𝙤𝙏-𝙎𝙐𝙋𝙀𝙍𝘽𝙊𝙏!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🌐➺ _${usedPrefix}add *numero*_
 ┃🌐➺ _${usedPrefix}sacar | ban | kick  *@tag*_
@@ -450,7 +450,7 @@ ${readMore}
 *╰━━━━━━━━━━━━⬣*
 
 *╭━━[ BÚSQUEDAS 🔍 ]━━⬣*
-┃ *Busca lo que quieres con GataBot!!*
+┃ *Busca lo que quieres con 𝙇𝙖𝙧𝙮𝘽𝙤𝙏-𝙎𝙐𝙋𝙀𝙍𝘽𝙊𝙏!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🔍➺ _${usedPrefix}animeinfo *texto*_
 ┃🔍➺ _${usedPrefix}mangainfo *texto*_
@@ -526,7 +526,7 @@ ${readMore}
 ┃⚗️➺ _${usedPrefix}trabajar | work_
 *╰━━━━━━━━━━━━⬣*
 
-*╭━━━[ TOP EN GATABOT ]━━⬣*
+*╭━━━[ TOP EN 𝙇𝙖𝙧𝙮𝘽𝙤𝙏-𝙎𝙐𝙋𝙀𝙍𝘽𝙊𝙏 ]━━⬣*
 ┃ *Averigua en que Top te encuentras!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🏆➺ _${usedPrefix}top | lb | leaderboard_
