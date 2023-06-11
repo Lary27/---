@@ -121,7 +121,7 @@ global.author = 'LARY'
 global.vs = '1.4.9'
 global.vsJB = '2.0'
 
-global.gt = 'LARY'
+global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
 global.yt = 'https://youtube.com/@lary27'
 global.yt2 = 'https://youtube.com/@lary27'
 global.ig = 'https://www.instagram.com/lary27'
