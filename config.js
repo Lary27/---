@@ -14,8 +14,8 @@ import { en, es, id, ar, pt, fr } from './lib/idiomas/total-idiomas.js'
 global.owner = [
   ['51931742240', 'LARYBOT 💖🐈', true],  
   ['51910387086', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],
-  ['5355772234', '𝘾𝙪𝙨𝙩𝙤𝙢𝙚𝙧 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 🍓', true],
-  ['593959425714', '𝘿𝙄𝙀𝙂𝙊-𝙊𝙁𝘾', true],
+  ['51922102129', '𝘾𝙪𝙨𝙩𝙤𝙢𝙚𝙧 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 🍓', true],
+  ['51931742240', '𝙊𝙁𝘾', true],
   ['59894808483'],
   ['584125778026'],
   ['5492266613038'],
@@ -102,18 +102,18 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-['18059196237', 'Gata Dios 💻', 1], 
+['51910387086', 'BOT', 1], 
 ['51910387086', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-['5355772234', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🍓', 1],
-['5521989092076', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-['5491173694367', 'Prueba', 1]] 
+['51922102129', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🍓', 1],
+['51931742240', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
+['51931742240', 'Prueba', 1]] 
 
 global.mail = '' //agrega tú correo
 global.desc = '' //agrega una descripción corta
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = '' //agrega tú país ejemplo: 🇪🇨
 
-global.packname = '𝙇𝙖𝙧𝙮𝘽𝙤𝙏-𝙎𝙐𝙋𝙀𝙍𝘽𝙊𝙏'
+global.packname = 'wa.me/51931742240'
 global.author = 'LARY'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
@@ -121,26 +121,26 @@ global.author = 'LARY'
 global.vs = '1.4.9'
 global.vsJB = '2.0'
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.gt = 'LARY'
 global.yt = 'https://youtube.com/@lary27'
 global.yt2 = 'https://youtube.com/@lary27'
 global.ig = 'https://www.instagram.com/lary27'
 global.md = 'https://github.com/Lary27'
-global.fb = 'https://www.facebook.com/groups/872989990425789/'
+global.fb = 'https://www.facebook.com/groups/872989990425700/'
 
-global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //UPDATE GATABOT
-global.nna2 = 'https://chat.whatsapp.com/IXZ0aBryB1cHjNxe0VIm76' //Help
-global.nn = 'https://chat.whatsapp.com/HGMOFsSczLfK99Kq9sB8Tz' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/HGMOFsSczLfK99Kq9sB8Tz' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/Kt5EXwUhcO8Ay76CIDLs7d' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/K0UCo7igED92q9c1w2DiEH' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/HJLpWS2BDrWCPH6uAUKIRG' //Grupo 5
-global.nnnttt2 = 'https://chat.whatsapp.com/F63pQpKCsWiF2zFXxhYnky' //Grupo 6 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/CcJKHrxGBWAAH3PiBL07JS' //Grupo 7 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/KLpYFsitkgzJ15YQxZrBqO' //Grupo 8 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/ErnXC51D9lWJtRWOD4stR2' //Grupo 9 COL
-global.paypal = 'https://paypal.me/OficialGD'
-global.asistencia = 'Wa.me/19393844141' //Dudas? escríbeme...
+global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U34' //UPDATE GATABOT
+global.nna2 = 'https://chat.whatsapp.com/IXZ0aBryB1cHjNxe0VIm766' //Help
+global.nn = 'https://chat.whatsapp.com/HGMOFsSczLfK99Kq94sB8Tz' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/HGMOFsSczLfK99Kq96sB8Tz' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/Kt5EXwUhcO8Ay76CI7DLs7d' //Grupo 3
+global.nnntt = 'https://chat.whatsapp.com/K0UCo7igED92q9c1w27DiEH' //Grupo 4
+global.nnnttt = 'https://chat.whatsapp.com/HJLpWS2BDrWCPH6uA7UKIRG' //Grupo 5
+global.nnnttt2 = 'https://chat.whatsapp.com/F63pQpKCsWiF2zFX0xhYnky' //Grupo 6 COL
+global.nnnttt3 = 'https://chat.whatsapp.com/CcJKHrxGBWAAH3PiB7L07JS' //Grupo 7 COL
+global.nnnttt4 = 'https://chat.whatsapp.com/KLpYFsitkgzJ15YQxZ65rBqO' //Grupo 8 COL
+global.nnnttt5 = 'https://chat.whatsapp.com/ErnXC51D9lWJtRWOD4st6R2' //Grupo 9 COL
+global.paypal = 'https://paypal.me/laryval'
+global.asistencia = 'Wa.me/51910387086' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -175,7 +175,7 @@ global.exito = eg
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
 global.wm = '𝙇𝙖𝙧𝙮𝘽𝙤𝙏-𝙎𝙐𝙋𝙀𝙍𝘽𝙊𝙏'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.igfg = 'LARY'
 global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
@@ -207,29 +207,29 @@ global.imagen13 = fs.readFileSync('./media/menus/img12.jpg')
 
 //━━━━━━━━━━━━━━ img ━━━━━━━━━
 
-global.img = 'https://i.imgur.com/IXlUwTW.jpg'
-global.img2 = 'https://i.imgur.com/EXTbyyn.jpg'
+global.img = 'https://i.imgur.com/XDRPPgT.jpg'
+global.img2 = 'https://i.imgur.com/XDRPPgT.jpg'
 
-global.img3 = 'https://i.imgur.com/oUAGYc2.jpg' //prem
-global.img4 = 'https://i.imgur.com/i0pccuo.jpg' //prem
+global.img3 = 'https://i.imgur.com/XDRPPgT.jpg' //prem
+global.img4 = 'https://i.imgur.com/XDRPPgT.jpg' //prem
 
-global.img5 = 'https://i.imgur.com/iL1snRx.jpeg'
-global.img6 = 'https://i.imgur.com/cYFgSKv.jpeg'
-global.img7 = 'https://i.imgur.com/JqL3h2V.jpeg'
-global.img8 = 'https://i.imgur.com/PCujt1s.jpeg'
-global.img9 = 'https://i.imgur.com/xfUEdDb.jpeg'
+global.img5 = 'https://i.imgur.com/XDRPPgT.jpg'
+global.img6 = 'https://i.imgur.com/XDRPPgT.jpg'
+global.img7 = 'https://i.imgur.com/XDRPPgT.jpg'
+global.img8 = 'https://i.imgur.com/XDRPPgT.jpg'
+global.img9 = 'https://i.imgur.com/XDRPPgT.jpg'
 
-global.img10 = 'https://i.imgur.com/DvHoMc3.jpg'
-global.img11 = 'https://i.imgur.com/5Q1MqGD.jpg'
-global.img12 = 'https://i.imgur.com/vWnsjh8.jpg'
-global.img13 = 'https://i.imgur.com/pCfFOgw.jpeg'
-global.img14 = 'https://i.imgur.com/knBDWRA.jpeg'
-global.img15 = 'https://i.imgur.com/QrkkKx7.jpeg'
+global.img10 = 'https://i.imgur.com/XDRPPgT.jpg'
+global.img11 = 'https://i.imgur.com/XDRPPgT.jpg'
+global.img12 = 'https://i.imgur.com/XDRPPgT.jpg'
+global.img13 = 'https://i.imgur.com/XDRPPgT.jpg'
+global.img14 = 'https://i.imgur.com/XDRPPgT.jpg'
+global.img15 = 'https://i.imgur.com/XDRPPgT.jpg'
 
-global.img16 = 'https://i.imgur.com/11MRjo4.jpeg' //+18
+global.img16 = 'https://i.imgur.com/XDRPPgT.jpg' //+18
 
-global.img17 = 'https://i.imgur.com/JpYfcH0.jpeg'
-global.img18 = 'https://i.imgur.com/9yLH4W4.jpeg'
+global.img17 = 'https://i.imgur.com/XDRPPgT.jpg'
+global.img18 = 'https://i.imgur.com/XDRPPgT.jpg'
 
 global.logogit = 'https://tinyurl.com/2qvl9vgs'
 
